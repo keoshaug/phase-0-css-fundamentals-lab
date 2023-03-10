@@ -1,5 +1,33 @@
+header {
+  text-align: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: brown;
+}
+
+.center {
+  margin-left: 200px;
+  margin-right: 300px;
+}
+
+div {
+  text-align: center;
+  background-color: aquamarine;
+  float: left;
+}
+
+#featured-property {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+
+
